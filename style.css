@@ -73,6 +73,9 @@ section {
     background-color: #16222A;
     margin: 0;
     padding: 0;
+    color: antiquewhite;
+    text-align: center;
+    justify-content: center;
 }
 
 .headerImage {
@@ -92,5 +95,5 @@ section {
 footer {
     text-align: center;
     background-color: black;
-    color: white;
+    color: antiquewhite;
 }
